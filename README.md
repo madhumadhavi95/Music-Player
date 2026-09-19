@@ -1,2 +1,20 @@
-# Music-Player
-A responsive music player built using HTML, CSS, and JavaScript with play, pause, next, previous, volume, and progress controls. It includes a playlist with song titles and artists, automatic song switching, and an interactive audio interface.
+🎵 Music Player
+
+A simple and responsive music player website developed using HTML, CSS, and JavaScript. It provides an easy-to-use interface for playing songs and controlling audio.
+
+✨ Features
+
+- ▶️ Play and pause songs
+- ⏮️ Previous and next song controls
+- 🎶 Playlist with song names and artists
+- ⏱️ Audio progress bar
+- 🔊 Volume control
+- 🔄 Automatically plays the next song
+- 📱 Responsive design
+
+🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- HTML5 Audio API
